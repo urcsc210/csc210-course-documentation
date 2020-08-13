@@ -22,7 +22,7 @@ The World Wide Web was born around 1990, so it is not much older than most of yo
 - All **course documentation** and **assignments** for CSC 210 will be published here: **[docs.csc210.org](http://docs.csc210.org/)**, not in Blackboard.
 - All **announcements** for CSC 210 will be distributed via "Slack" - an online communication and collaboration tool, not in Blackboard.
 
-  - Students are required to **create a Slack account here**: [ join.slack.com/t/csc210/signup](https://join.slack.com/t/csc210/signup) and then monitor the CSC 210 Slack Workspace here: **[csc210.slack.com](https://csc210.slack.com/)** throughout the semester.
+  - Students are required to **create a Slack account here**: [ join.slack.com/t/urcsc210/signup](https://join.slack.com/t/urcsc210/signup) and then monitor the CSC 210 Slack Workspace here: **[urcsc210.slack.com](https://urcsc210.slack.com/)** throughout the semester.
     - When registering for an account in Slack, students must use their **rochester.edu** email
     - Suggestion: after you setup your Slack account, instead of using Slack via the website, **install the device software**: [slack.com/downloads](https://slack.com/downloads)
 - **Blackboard** will be used for students to turn-in assignments and monitor their grade progress throughout the semester.
@@ -34,7 +34,7 @@ The World Wide Web was born around 1990, so it is not much older than most of yo
 - Instructor: **Professor Kostin**<br>Instructional Faculty<br>Digital Media Studies Program; Computer Science Department<br>University of Rochester<br>206a Morey Hall (private office); 2105 Wegmans Hall (shared office)
 - **Messaging**​
   - e-mail: **<robert.kostin@rochester.edu>** - not recommended due to excessive incoming messages, instead...
-  - For faster reply, please use [**Slack**](https://csc210.slack.com/) to contact the professor; send a **DM to Professor Kostin**
+  - For faster reply, please use [**Slack**](https://urcsc210.slack.com/) to contact the professor; send a **DM to Professor Kostin**
   - For real-time discussions (**office hours**), schedule an appointment using [**Calendly**, an online scheduling app](https://calendly.com/rkostin) to setup a private Zoom meeting
 
 ### Teaching Assistants
