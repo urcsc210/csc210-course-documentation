@@ -103,7 +103,7 @@ You may discuss homework problems with others, but you must not retain written (
 
 Class attendance and participation is expected. Attendance is not taken and you will notice that there is no attendance component to your grade. However, students that skip lectures will likely have a much more difficult time with quizzes, homework, and the group project. 
 
-##Incompletes
+## Incompletes
 
 This course follows the [university policy](https://www.rochester.edu/college/ccas/handbook/incompletes.html) regarding incompletes. Incompletes may be given only when there are circumstances beyond the student's control, such as illness or personal emergency, that prevented the student from finishing the coursework on time.
 
