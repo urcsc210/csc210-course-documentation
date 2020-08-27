@@ -6,16 +6,12 @@ Web Programming
 
 ## Thursday, August 27, 2020
 
-- Lecture 1: Introduction to the Course
-- Assignment: GitHub/Slack Account Signup (due 9/6/2020)<br><br>
+- [Lecture 1: HTTP and the Client/Server Network Model (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c2473c1-4d2b-4c7f-a834-ac1e0130097b) and [(PDF)](01-http_client-server/http_client-server.pdf)
+- [Assignment 1: GitHub/Slack Accounts](assignment01-github-slack/instructions.md)<br><br>
 
 
 <hr>
 
 
-- For **technical help**
-  - Use [**Slack**](https://urcsc210.slack.com/) (asynchronous help): the professor and TAs (and possibly other students) will answer technical questions in the **#help** channel
-  - Attend scheduled lab sessions (synchronous help): TAs will lead discussions and answer questions in real-time via **Zoom**; see the **#announcements** channel in Slack for times and connection info
-- To schedule a **private, discussion with the professor**
-  - Use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
+To schedule a **private discussion with the professor**, use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
 
