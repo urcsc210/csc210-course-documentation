@@ -4,14 +4,11 @@ Web Programming
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 
-## Thursday, August 27, 2020
+## Tuesday, September 1, 2020
 
-- [Lecture 1: HTTP and the Client/Server Network Model (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8c2473c1-4d2b-4c7f-a834-ac1e0130097b) and [(PDF)](01-http_client-server/http_client-server.pdf)
-- [Assignment 1: GitHub/Slack Accounts](assignment01-github-slack/instructions.md)<br><br>
+- [Lecture 2: Introduction to HTML and CSS, part 1 (live discussion) (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=733cbec6-e714-4218-80ea-ac29017ef037)
 
-
-<hr>
-
-
-To schedule a **private discussion with the professor**, use [*Calendly*, an online scheduling app](https://calendly.com/rkostin) to setup virtual office hours via **Zoom**
-
+- Assignments: 
+  - Read [Why JavaScript is Eating HTML (article)](https://css-tricks.com/why-javascript-is-eating-html/), especially the part about **Two kinds of programming**: *Imperative* and *Declarative*
+  - Read [Libraries vs. Frameworks — What’s the Difference? (article)](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe)
+  - Assignment 2: Basic Front-end Webpage (coming soon) 
