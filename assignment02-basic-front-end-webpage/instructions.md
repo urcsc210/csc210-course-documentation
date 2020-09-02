@@ -39,7 +39,7 @@ To install your own: **WinSCP** (Windows only) go to [winscp.net/eng/download.ph
 …then click the green button, “DOWNLOAD WINSCP…”
 
 To install **Cyberduck** go to: [cyberduck.io](http://cyberduck.io/)
-…then click “Download,” for Windows or OS X
+…then click “Download”
 
 After you've installed the FTP software you're going to use...
 
