@@ -10,7 +10,7 @@ Your assignment is to create a simple, single-page website that fulfills the req
 - The subject matter of the webpage must be a recipe - any recipe
 - The source of the recipe must be another website somewhere on the Web
 - You must replicate the *content* of the recipe (name, description, ingredients, procedure) and include photos (embedded videos okay, but not required), but the *presentation* must be uniquely yours
-- You must cite the source of the recipe somewhere in your webpage
+- You must cite the source of the recipe somewhere in your webpage as hypertext (a link)
 - You must embellish the recipe with your own words and photos - personalize it!
 
 ### Source Code
@@ -30,7 +30,19 @@ Violations of this rule are subject to the University's rules on plagiarism.
 
 ## Publish and Report your Work
 
-- Sync your local files to a **public repository on GitHub**
+To upload your files to the class web server, you'll need to use some FTP software.  There are lots of kinds of FTP software you can use. If you already know about this and have your own preference, you can use it. Else, if it doesn’t matter:
+
+- Use **WinSCP** for Windows
+- Use **Cyberduck** for Mac
+
+To install your own: **WinSCP** (Windows only) go to [winscp.net/eng/download.php](http://winscp.net/eng/download.php)
+…then click the green button, “DOWNLOAD WINSCP…”
+
+To install **Cyberduck** go to: [cyberduck.io](http://cyberduck.io/)
+…then click “Download,” for Windows or OS X
+
+After you've installed the FTP software you're going to use...
+
 - Install your webpage on the **class web server** using the FTP credentials below
 
 Note: **everyone will use the same FTP account**. Be careful *not* to disturb other students' files!
@@ -44,8 +56,15 @@ FTP Password: [see the #announcements channel in Slack]
 
 - When you FTP-in to the account, **create a folder using your UR NetID** (e.g. rkostin) and place your webpage files in there
 
+### Check Your Work
+
+- Open a web browser and go to this web address, below, where “*username*” is your UR NetID  (example: **rkostin**) and "*filename*" is whatever you called your HTML file (example: **index**)
+
+  `http://csc210.org/assignment01/username/filename.html`
+
+If you did everything correctly, you should see your simple webpage with your name on it.
+
 ### Report your Work
 
 - In our CSC 210 section in Blackboard, in **Assignment 2: Basic Front-end Webpage** , click the "Write Submission" button then in the text box...
-  - Post a link (not the actual files) to your webpage on the class web server 
-  - Post a link to your repository in GitHub (make sure it's a Public repository)
+  - Post the URL (not the actual files) to your webpage on the class web server 
