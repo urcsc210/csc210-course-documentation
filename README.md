@@ -12,3 +12,4 @@ Web Programming
   - Read [Why JavaScript is Eating HTML (article)](https://css-tricks.com/why-javascript-is-eating-html/), especially the part about **Two kinds of programming**: *Imperative* and *Declarative*
   - Read [Libraries vs. Frameworks — What’s the Difference? (article)](https://medium.com/better-programming/libraries-vs-frameworks-whats-the-difference-5f28c53dcffe)
   - Assignment 2: Basic Front-end Webpage (coming soon) 
+
