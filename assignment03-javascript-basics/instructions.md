@@ -25,7 +25,28 @@ The main purpose of this assignment is to demonstrate how JavaScript can manipul
 ### Optimize and Improve the JavaScript
 
 - Edit the JavaScript to fix the **errors** seen in the console (10 points)
+
 - Create new function(s) to *abstractualize* some of the procedures (5 points), and move the new functions(s) *outside* the anonymous **DOMContentLoaded** function that wraps all the JavaScript (10 points)
+
+  - Note: it's a good practice to have a "main" function that calls everything else, even if it's necessary because you installed your scripts at the bottom of your HTML ...so leave the DOMContentLoaded function there anyway!
+
+  - BTW - there are variations of that function, not just DOMContentLoaded...
+
+    ```js
+    window.addEventListener('load', function () {
+      alert("It's loaded!")
+    })
+    ```
+    
+    ```js
+    window.onload = function() {
+      init();
+      doSomethingElse();
+    };
+    ```
+    
+    ...and more - some work a little differently than others.  (See [MDN web docs, Window: load event](https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event) for more information)
+
 - Make any other improvements you can to refine and optimize the script; surprise me!  (Remember: no libraries like jQuery for this assignment) (5 points)
 
 ## Publish and Report your Work
