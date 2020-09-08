@@ -6,14 +6,9 @@ Web Programming
 
 ## Tuesday, September 8, 2020
 
-- Lecture 4: Introduction to JavaScript (Panopto, coming soon)
-- Assignment 3 (coming soon, due: Thursday, September 10) 
+- [Lecture 4: Introduction to JavaScript (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e6226cc-4f8c-470b-bf1d-ac2f0115a070) and [(PDF)](04-intro-to-javascript/javascript.pdf)
+  - Embedded video (should auto-play at timestamp: 14:25): [An Introduction to the DOM (Document Object Model) in JavaScript (YouTube)](https://www.youtube.com/watch?v=l-0nPnSvbX8&feature=youtu.be&t=4)
+- [Assignment 3: JavaScript Basics](assignment03-javascript-basics/instructions.md) (Due: Thursday, September 10) 
 
-## Thursday, September 3, 2020
 
-- [Lecture 3: Introduction to HTML and CSS, part 2 (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=252e69f5-3e8a-420e-9683-ac2b0164451d)
-  - Prep, if needed (previously posted in Slack): [The absolute basics of HTML, CSS and JavaScript (YouTube, 24 min)](https://youtu.be/wrdR5Su_Stg)
-
-- Assignment underway (from Tuesday, September 1):
-  - [Assignment 2: Basic Front-end Webpage ](assignment02-basic-front-end-webpage/instructions.md) (Due: Tuesday, September 8)
 
