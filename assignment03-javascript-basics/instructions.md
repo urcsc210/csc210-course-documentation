@@ -26,7 +26,7 @@ The main purpose of this assignment is to demonstrate how JavaScript can manipul
 
 - Edit the JavaScript to fix the **errors** seen in the console (10 points)
 
-- Create new function(s) to *abstractualize* some of the procedures (5 points), and move the new functions(s) *outside* the anonymous **DOMContentLoaded** function that wraps all the JavaScript (10 points)
+- Create new function(s) to *abstractualize* some of the procedures, and move the new functions(s) *outside* the anonymous **DOMContentLoaded** function that wraps all the JavaScript (10 points)
 
   - Note: it's a good practice to have a "main" function that calls everything else, even if it's necessary because you installed your scripts at the bottom of your HTML ...so leave the DOMContentLoaded function there anyway!
 
