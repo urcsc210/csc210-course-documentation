@@ -11,5 +11,6 @@ Web Programming
 - [Lecture 4b: Introduction to JavaScript (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=31f16bbd-5da7-4eb5-b27a-ac3001600080)
 - [Assignment 3: JavaScript Basics](assignment03-javascript-basics/instructions.md) (Due: Thursday, September 10) 
 
+## Thursday, September 10, 2020
 
-
+- Lecture 5: jQuery (delayed)
