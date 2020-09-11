@@ -13,4 +13,4 @@ Web Programming
 
 ## Thursday, September 10, 2020
 
-- Lecture 5: jQuery (delayed)
+- Lecture 5: HTML forms and jQuery (delayed)
