@@ -1,6 +1,6 @@
 # Flask Cheatsheet
 
-There are three things you need to know how to do when developing web applications in Flask:
+There are three things you need to know when developing web applications in Flask:
 
 - One-time initial install of Python3
 - Setup a new project
