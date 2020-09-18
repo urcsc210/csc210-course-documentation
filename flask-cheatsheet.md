@@ -71,7 +71,7 @@ def more():
 After setting up a new project, you can leave (close the CLI) and come back later.  To pick-up where you left off:
 
 - In a CLI: `cd` into the project folder
-- Activate the environment<br>at CLI (mac): `source venv/bin/activate`<br>
+- Reactivate the environment<br>at CLI (mac): `source venv/bin/activate`<br>
   at CLI (win): `venv\Scripts\activate`<br>
   ...notice your prompt change; indicates that you're working in a private python environment
 - Reset environment variable<br>
