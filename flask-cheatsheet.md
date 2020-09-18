@@ -84,5 +84,5 @@ After setting up a new project, you can leave (close the CLI) and come back late
 - Open a web browser; try​ these URLs:
   - [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
   - [http://127.0.0.1:5000/more](http://127.0.0.1:5000/more)
-- Kill the web server
+- Kill the web server<br>
   at CLI: Control-C
