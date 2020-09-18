@@ -7,7 +7,8 @@ Web Programming
 
 ## Thursday, September 17, 2020
 
-- [Lecture 7: Flask Installation and First App (live workshop, Zoom)](https://rochester.zoom.us/j/94256404116)
-  - Live Zoom, starting at 3:25 PM EDT
-  - Be prepared to work at the command line on your computer and install software
+- [Lecture 7: Flask Installation and First App (live workshop, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cbcdd36-b6f9-4cad-ae03-ac39015f61fa)
+  - Associated video: [Miguel Grinberg's Flask Webcast #1: Intro to Flask](https://youtu.be/fft6IvL-y1g?t=690) (watch: 11:30 through 22:45)
+    
+    
 
