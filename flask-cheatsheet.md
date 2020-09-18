@@ -63,7 +63,7 @@ def more():
 - Open a web browser; try​ these URLs:
   - [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
   - [http://127.0.0.1:5000/more](http://127.0.0.1:5000/more)
-- Kill the web server
+- Kill the web server<br>
   at CLI: Control-C
 
 ## Restart an Existing Project
@@ -75,7 +75,7 @@ After setting up a new project, you can leave (close the CLI) and come back late
   at CLI (win): `venv\Scripts\activate`<br>
   ...notice your prompt change; indicates that you're working in a private python environment
 - Reset environment variable<br>
-  at CLI (mac): `export FLASK_APP=hello.py`
+  at CLI (mac): `export FLASK_APP=hello.py`<br>
   at CLI (win): `set FLASK_APP=hello.py`
 
 - Start the WSGI server (web server)<br>
