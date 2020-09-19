@@ -27,6 +27,9 @@ You need to do the following *each time* you start a new project
   ...notice your prompt change; indicates that you're working in a private python environment 
 - Install Flask<br>
   at CLI: `pip install flask`
+- Set environment variable<br>
+  at CLI (mac): `export FLASK_APP=hello.py`<br>
+  at CLI (win): `set FLASK_APP=hello.py`
 
 ### Test the environment (Hello World!)
 
