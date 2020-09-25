@@ -33,7 +33,7 @@ Instead of manually creating HTML, CSS, and JavaScript (plus jQuery), you need t
 
 
 
-###Functionality
+### Functionality
 
 - The web page must **function correctly** using the JavaScript and jQuery from Assignment 4
   - Example...
@@ -46,10 +46,9 @@ Instead of manually creating HTML, CSS, and JavaScript (plus jQuery), you need t
 
 This is the new part...
 
-- Use a URL like this to inject data into your web app<br> `http://127.0.0.1:5000/?ingredient=booze`
+- Use a URL to inject data into your web app<br>e.g.  `http://127.0.0.1:5000/?ingredient=booze`...you can come-up with anything you want
   - The query string must use the key/value format
   - You only need one key/value pair
-  - Suggestion: make the key: "ingredient"
 - Use Jinja2's control structures to create a new list item (in an `<li>` tag) showing up in the HTML like this
 ```html
 	<ul id="ingredientsList">
