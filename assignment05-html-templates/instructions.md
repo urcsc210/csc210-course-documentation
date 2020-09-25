@@ -75,7 +75,7 @@ This is the new part...
 
 When you insert data into the HTML using Flask and Jinja2, the data appears hidden along with the other list items.  This will always be the case. 
 
-> **THE QUESTION IS: why can't you have JavaScript hide the list first, and *then* have the new list item from the query string appear in the list?**
+> **THE QUESTION IS: why can't you have JavaScript hide the list first, and *then* have the new list item from the query string appear in the list so it's visible when the page loads?**
 
 You must answer the question in the *Write Submission* box in Blackboard when you turn-in your assignment files.
 
