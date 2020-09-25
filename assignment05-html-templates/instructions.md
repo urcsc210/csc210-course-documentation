@@ -90,4 +90,8 @@ If you have a solution, implement it in your files, and then describe the soluti
 
 You will not be installing this app on our class web server.  You need to ZIP (compress) your **assignment05** folder and turn it in on Blackboard
 
-- In our CSC 210 section in Blackboard, in **Assignment 5: HTML Templates** , upload your ZIP file and write your answer to the question in the "Write Submission" box
+- In our CSC 210 section in Blackboard, in **Assignment 5: HTML Templates** , upload your assignment05 ZIP file 
+- In the "Write Submission" box, provide a URL with a query string; <br>e.g. `http://127.0.0.1:5000/?ingredient=booze`<br>...the query string must work with your implementation
+- Write your answer to the *Required Question* in the "Write Submission" box
+  - If you're providing a solution to the Bonus Points: indicate that you've done so in the Write Submission box and describe your solution
+
