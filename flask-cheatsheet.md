@@ -27,7 +27,7 @@ You need to do the following *each time* you start a new project
   ...notice your prompt change; indicates that you're working in a private python environment 
 - Install Flask<br>
   at CLI: `pip install flask`
-- IF you need to use an app file *different* than **app.py**, set the environment variable (else skip this step)<br>
+- IF you need to use an app file *different* than **app.py**, set the environment variable so Python can find the app (else skip this step)<br>
   at CLI (mac): `export FLASK_APP=hello.py`<br>
   at CLI (win): `set FLASK_APP=hello.py`
 
@@ -68,13 +68,14 @@ After setting up a new project, you can leave (close the CLI) and come back late
 - Reactivate the environment<br>at CLI (mac): `source venv/bin/activate`<br>
   at CLI (win): `venv\Scripts\activate`<br>
   ...notice your prompt change; indicates that you're working in a private python environment
-- Reset environment variable<br>
+- Reset environment variable to indicate the app file (only if *not* using **app.py**)<br>
   at CLI (mac): `export FLASK_APP=hello.py`<br>
   at CLI (win): `set FLASK_APP=hello.py`
-
+- Reset debug mode if you're planning to use it<br>
+  at CLI (mac): `export FLASK_ENV=development`<br>
+at CLI (win): `set FLASK_ENV=development` 
 - Start the WSGI server (web server)<br>
   at CLI: `flask run`
-
 - Open a web browser; try​ these URLs:
   - [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 - Kill the web server<br>
