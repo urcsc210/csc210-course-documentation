@@ -81,4 +81,3 @@ at CLI (win): `set FLASK_ENV=development`
 - Kill the web server<br>
   at CLI: Control-C
   
-  (kick)
