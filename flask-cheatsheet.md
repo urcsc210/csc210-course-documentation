@@ -27,7 +27,7 @@ You need to do the following *each time* you start a new project
   ...notice your prompt change; indicates that you're working in a private python environment 
 - Install Flask<br>
   at CLI: `pip install flask`
-- Set environment variable<br>
+- IF you need to use an app file *different* than **app.py**, set the environment variable (else skip this step)<br>
   at CLI (mac): `export FLASK_APP=hello.py`<br>
   at CLI (win): `set FLASK_APP=hello.py`
 
@@ -35,38 +35,29 @@ You need to do the following *each time* you start a new project
 
 To make sure everything is setup correctly, write a simple Hello World! application.
 
-- In the project folder, create a test file, e.g. **hello.py**<br>*(.py is for Python)*
+- In the project folder, create a test file, e.g. **app.py**<br>*(.py is for Python)*
 
-- In the **hello.py** file, write a basic application<br>(Beware: Python syntax! Whitespace is important.)
+- In the **app.py** file, write a basic application<br>(Beware: Python syntax! Whitespace is important.)
 
 ```python
-# Import the Flask module from the flask package
 from flask import Flask
-
-# Instantiate the Flask class to the variable: app
 app = Flask(__name__)
 
-# Create a "route" using a "decoration"
 @app.route('/')
-# Create a Python function that will be executed at the decoration
 def index():
 	return "<h1>Hello World!</h1>"
-
-# Another route, for good measure
-@app.route('/more')
-def more():
-	return "<h1>More Hello World!</h1>"
 ```
 
 ...save the file.
 
+- IF you are planning to use debug mode (and you are, usually) set the environment variable (else skip this step)<br>
+  at CLI (mac): `export FLASK_ENV=development`<br>
+at CLI (win): `set FLASK_ENV=development` 
 - Start the WSGI server (web server)<br>
   at CLI: `flask run`
-
 - Open a web browser; try​ these URLs:
   - [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
-  - [http://127.0.0.1:5000/more](http://127.0.0.1:5000/more)
-- Kill the web server<br>
+- Kill the web server when you're done or need to change something in the environment<br>
   at CLI: Control-C
 
 ## Restart an Existing Project
@@ -86,6 +77,5 @@ After setting up a new project, you can leave (close the CLI) and come back late
 
 - Open a web browser; try​ these URLs:
   - [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
-  - [http://127.0.0.1:5000/more](http://127.0.0.1:5000/more)
 - Kill the web server<br>
   at CLI: Control-C
