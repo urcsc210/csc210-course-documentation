@@ -5,16 +5,11 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
-## Tuesday, September 29, 2020
+## Thursday, October 1, 2020
 
-- [Lecture 10: Workshop - App Deployment (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b8257b2-5a70-4e64-8dc9-ac45017c584b) and [(PDF)](10-app-deployment/five-ways.pdf)
-  - [Instructions - for use in the workshop today (PDF)](10-app-deployment/python-reclaim-hosting.pdf)
-  - [5 ways to deploy your Python web app (YouTube)](https://youtu.be/vGphzPLemZE)
-
-*Continue working on...*
-
-- [Assignment 5: HTML Templates](assignment05-html-templates/instructions.md) (due: Thursday, October 1 *...extra time!*)
-  - [Watch the short supplemental video first! (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa6fe9f8-fd91-49b5-ae9a-ac41011ab06d)
-
-
+- [Lecture 11: "Hard Reset" - Deployment Workshop (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb558c0c-6c95-4053-81bd-ac47015b5874)
+- Assignment 6: "Hard Reset" - Deployment Workshop (due: today, October 1)
+  - Follow-along during the workshop on October 1 to replicate the application in the first part of Chapter 4, p50-51 (git checkout 4a)
+  - Submit files and a link in Blackboard
+- Assignment 7: coming soon
 
