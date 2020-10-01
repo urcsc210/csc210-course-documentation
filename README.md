@@ -7,7 +7,7 @@ Web Programming
 
 ## Tuesday, September 29, 2020
 
-- [Lecture 10: Workshop - App Deployment (Live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b8257b2-5a70-4e64-8dc9-ac45017c584b) and [(PDF)](10-app-deployment/five-ways.pdf)
+- [Lecture 10: Workshop - App Deployment (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b8257b2-5a70-4e64-8dc9-ac45017c584b) and [(PDF)](10-app-deployment/five-ways.pdf)
   - [Instructions - for use in the workshop today (PDF)](10-app-deployment/python-reclaim-hosting.pdf)
   - [5 ways to deploy your Python web app (YouTube)](https://youtu.be/vGphzPLemZE)
 
