@@ -14,9 +14,19 @@ You only need Python3 installed on your computer and have it properly set in you
 - Check: at CLI `python3 --version` or `where python3`<br>If response is good, you're good to go
 - Else install or re-install Python from [www.python.org](https://www.python.org/)<br>Make sure your python3 installation is in your system's PATH
 
+### Git Repository used by the book
+
+Follow along with the code samples from the book, **Flask Web Development**, *(Miguel Grinberg)* by using Git to clone the book's repository in GitHub
+
+-  Initial setup: in any subdirectory where it makes sense to keep development files<br>at CLI: `git clone https://github.com/miguelgrinberg/flasky.git`
+- Then follow the book's instructions; at CLI: `git checkout 1a` ...and then 1b, 1c, et cetera as indicated by the lemur icons throughout the book
+- If needed, to a hard reset to baseline your files with Git; at CLI: `git reset --hard`
+
+*Note: the sync'd files from GitHub are meant to be viewed and studied.  Don't edit them else you'll fall out of sync with the repository.*
+
 ## Setup a New Project
 
-You need to do the following *each time* you start a new project
+You need to do the following *each time* you start a new project OR you need to re-create a virtual environment
 
 - Create a new project folder anywhere in your file system then...
   - at CLI: `cd` into the project folder
@@ -33,7 +43,7 @@ You need to do the following *each time* you start a new project
 
 ### Test the environment (Hello World!)
 
-To make sure everything is setup correctly, write a simple Hello World! application.
+If you're creating a new project from scratch (i.e. there aren't any **.py** files there already), you need to make sure everything is setup correctly; write a simple Hello World! application.
 
 - In the project folder, create a test file, e.g. **app.py**<br>*(.py is for Python)*
 
@@ -60,6 +70,38 @@ at CLI (win): `set FLASK_ENV=development`
 - Kill the web server when you're done or need to change something in the environment<br>
   at CLI: Control-C
 
+### Freeze Requirements
+
+When building an application it's common to add modules to extend Flask's capabilities.  After installation, you need to remember to "freeze" (take a snapshot) of the modules your app needs by creating a **requirements.txt** file
+
+- At the CLI: `pip freeze > requirements.txt`
+
+### New Project Command Summary
+
+Mac zsh or bash...
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install flask
+export FLASK_ENV=development
+export FLASK_APP=hello.py #...only if not using app.py
+pip freeze > requirements.txt #...after installing new modules only
+flask run #...then Ctrl-C to exit
+```
+
+Windows CMD...
+
+```bash
+python3 -m venv venv
+venv/bin/activate
+pip install flask
+set FLASK_ENV=development
+set FLASK_APP=hello.py #...only if not using app.py
+pip freeze > requirements.txt #...after installing new modules only
+flask run #...then Ctrl-C to exit
+```
+
 ## Restart an Existing Project
 
 After setting up a new project, you can leave (close the CLI) and come back later.  To pick-up where you left off:
@@ -80,3 +122,26 @@ at CLI (win): `set FLASK_ENV=development`
   - [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 - Kill the web server<br>
   at CLI: Control-C
+
+### Restart Command Summary
+
+Mac zsh or bash...
+
+```bash
+source venv/bin/activate
+export FLASK_ENV=development
+export FLASK_APP=hello.py #...only if not using app.py
+pip install -r requirements.txt #...if custom modules were used
+flask run #...then Ctrl-C to exit
+```
+
+Windows CMD...
+
+```bash
+venv/bin/activate
+pip install flask
+set FLASK_ENV=development
+set FLASK_APP=hello.py #...only if not using app.py
+pip install -r requirements.txt #...if custom modules were used
+flask run #...then Ctrl-C to exit
+```
