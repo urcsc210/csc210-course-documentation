@@ -11,5 +11,5 @@ Web Programming
 - Assignment 6: "Hard Reset" - Deployment Workshop (due: today, October 1)
   - Follow-along during the workshop on October 1 to replicate the application in the first part of Chapter 4, p50-51 (git checkout 4a)
   - Submit files and a link in Blackboard
-- Assignment 7: coming soon
+- [Assignment 7: Flask HTML Forms](assignment07-flask-html-forms/instructions.md)
 

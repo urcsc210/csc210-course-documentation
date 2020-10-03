@@ -79,11 +79,11 @@ For each assignment, a grading rubric will be provided. Rubrics will inform stud
 | 60.00 to 63.99 | D-        |
 | 00.00 to 59.99 | E         |
 
-| Activity             | Weight of the final grade |
-| -------------------- | ------------------------- |
-| **Lab Assignments**  | 35%                       |
-| **Quizzes (online)** | 15%                       |
-| **Group Project**    | 50%                       |
+| Activity                    | Weight of the final grade |
+| --------------------------- | ------------------------- |
+| **Lab Assignments**         | 50% (updated)             |
+| <s>**Quizzes (online)**</s> | <s>15%</s>                |
+| **Group Project**(s)        | 50%                       |
 
 ## Late assignments
 
