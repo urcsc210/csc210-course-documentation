@@ -48,7 +48,7 @@ The following TAs will be online to present assignments, provide suggestions, an
 | ![joshua-choi](media/joshua-choi.jpg)<br>Joshua Choi         | ![junis-kmekciu](media/junis-kmekciu.jpg)<br>Junis Ekmekciu  | ![desmond-lai](media/desmond-lai.jpg)<br>Desmond Lai        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | ![marco-scarlata](media/marco-scarlata.jpg)<br>**Marco Scarlata** | ![vishad-pokharel](media/vishad-pokharel.png)<br>**Vishad Pokharel** | ![evan-pollack](media/evan-pollack.jpg)<br>**Evan Pollack** |
-| ![constanza-aceves-rodríguez](media/constanza-aceves-rodriguez.png)<br>**Constanza Aceves Rodríguez** |                                                              |                                                             |
+| ![constanza-aceves-rodríguez](media/constanza-aceves-rodriguez.png)<br>**Constanza Aceves<br>Rodríguez** |                                                              |                                                             |
 
 ## Textbook
 
