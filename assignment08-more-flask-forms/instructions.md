@@ -34,7 +34,7 @@ Starting with what you saw in the reference videos (above), you need to *extend*
 
 The exact amount of new fields in the form and how you code it is up to you.  Just remember that the goal of this assignment is to demonstrate mastery of the Flask framework to capture and use user-inputted data.
 
-**Another requirement:** make your HTML form captures *"recipe related user input"* ...something that might potentially be used with your recipe webpage, sometime in the future.  BTW - don't worry: whatever you put together for Assignment 8 is *not* a commitment to use it later, but it's important that you start thinking in those terms.
+**Another requirement:** make your HTML form capture *"recipe related user input"* ...something that might potentially be used with your recipe webpage, sometime in the future.  BTW - don't worry: whatever you put together for Assignment 8 is *not* a commitment to use it later, but it's important that you start thinking in those terms.
 
 ## Turn-in Your Work
 
