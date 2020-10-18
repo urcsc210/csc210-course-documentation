@@ -7,7 +7,7 @@ Web Programming
 
 ## Thursday, October 15, 2020
 
-- [Project 1 Discussion (live discussion, Panopto](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00089eef-8d1a-4328-9c69-ac55015e8846)
+- [Project 1 Discussion (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00089eef-8d1a-4328-9c69-ac55015e8846)
 - [Discussion Notes (Course Documentation page)](15-project-discussion/discussion-notes.md)
 
 *Continue work on...*
