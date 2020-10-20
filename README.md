@@ -5,6 +5,10 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
+## Tuesday, October 20, 2020
+
+- [Full CRUD App (live discussion, Zoom)](https://rochester.zoom.us/j/94256404116 )
+
 ## Thursday, October 15, 2020
 
 - [Project 1 Discussion (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00089eef-8d1a-4328-9c69-ac55015e8846)
