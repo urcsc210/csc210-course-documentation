@@ -7,7 +7,8 @@ Web Programming
 
 ## Tuesday, October 20, 2020
 
-- [Full CRUD App (live discussion, Zoom)](https://rochester.zoom.us/j/94256404116 )
+- [Full CRUD App (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efbd1856-56d7-4912-9a7c-ac5a01502f96)
+  - Summary, coming soon
 
 ## Thursday, October 15, 2020
 
