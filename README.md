@@ -7,12 +7,6 @@ Web Programming
 
 ## Thursday, October 22, 2020
 
-Workshop: **Assignment 10 - CRUD Recipe**
-
-- Also, pre-proposal discussions
-
-## Tuesday, October 20, 2020
-
-- [Full CRUD App (live discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=efbd1856-56d7-4912-9a7c-ac5a01502f96)
-- [Discussion Notes (Course Documentation page)](16-full-crud-app/discussion-notes.md)
+- Workshop: [Assignment 10: CRUD Recipe](assignment10-crud/instructions.md) (*Due: Tuesday, October 27, 2020*)
+  - Also [tutorial reviews](https://docs.google.com/spreadsheets/d/1sLVw6UWpY4K66Z32Xu3Pw9Lp-xgXGgagto_YrTUl35w/edit#gid=52214594) and pre-proposal discussions for the final project
 
