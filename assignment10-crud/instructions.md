@@ -1,6 +1,6 @@
 # Assignment 10: CRUD Recipe
 
-*Due: Tuesday, October 27, 2020*
+*Due: <s>Tuesday, October 27, 2020</s>* Updated: Thursday, October 28, 2020
 
 This assignment requires you to find your own tutorial that uses Flask and SQLite, and then create your own CRUD app based on it.
 
