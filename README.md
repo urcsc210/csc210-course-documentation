@@ -5,6 +5,8 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
+**NEW: Monday, November 2**: [Supplemental **Final Project** Information (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f409e965-3255-49eb-997f-ac67012ed183)
+
 ## Tuesday, October 27, 2020
 
 - [Workshop ...several topics (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ddc43ff-7611-4600-849c-ac620017dca8)
