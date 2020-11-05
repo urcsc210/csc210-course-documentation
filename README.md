@@ -7,6 +7,11 @@ Web Programming
 
 **NEW: Monday, November 2**: [Supplemental **Final Project** Information (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f409e965-3255-49eb-997f-ac67012ed183)
 
+## Thursday, November 5, 2020
+
+- [Final Project Team Building (discussion, Zoom)](https://rochester.zoom.us/j/94256404116 ) …starting at 3:25 PM
+  - [Final Project Instructions (DRAFT)](final-project/instructions.md)
+
 ## Tuesday, October 27, 2020
 
 - [Workshop ...several topics (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ddc43ff-7611-4600-849c-ac620017dca8)
