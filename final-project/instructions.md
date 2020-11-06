@@ -1,4 +1,4 @@
-# CSC 210 Final Project [draft]
+# CSC 210 Final Project
 
 The CSC 210 final project is delivered in multiple parts, described below.  The last part - delivery of an actual web application - is considered your *final exam* for the course.
 
@@ -7,7 +7,7 @@ The CSC 210 final project is delivered in multiple parts, described below.  The 
 ## Functional Requirements
 
 - A web application using a **web framework**
-  - Note: it is required that you use a web framework to build the application, but it does not necessarily have be be *Flask*, however if you choose to use another framework(s) with which to build the application, <u>check with the professor</u> to make sure it's appropriate for use in CSC 210
+  - Note: it is required that you use a web framework to build the application, but it does not necessarily have be *Flask*, however if you choose to use another framework(s) with which to build the application, <u>check with the professor</u> to make sure it's appropriate for use in CSC 210
 - The web application must be **installed on a production web server** 
   - Note: the production web server does *not* have to be UR Digital Scholar
 - Use of a **backend database** to perform *at least* three of the four basic database functions
@@ -94,13 +94,14 @@ Note: each planning meeting will be graded; there will be no make-ups or recover
 
 ## Part 5: Final Delivery
 
-Due: [last day of finals week]
+The final application must be turned-in on Blackboard no later than Wednesday, December 9 (the last day of finals week)
 
-- 
+The submission in Blackboard must include:
 
-
-
-
+- A link to the working web application online
+- A compressed (ZIP) file of the web application
+- A link to the team's public repository
+- A list of the names of everyone on the team and a statement of generally, who did what to build the application
 
 ## Work Team Process and Conflict Resolution
 

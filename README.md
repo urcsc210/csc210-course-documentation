@@ -9,12 +9,11 @@ Web Programming
 
 ## Thursday, November 5, 2020
 
-- [Final Project Team Building (discussion, Zoom)](https://rochester.zoom.us/j/94256404116 ) …starting at 3:25 PM
-  - [Final Project Instructions (DRAFT)](final-project/instructions.md)
-
-## Tuesday, October 27, 2020
-
-- [Workshop ...several topics (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4ddc43ff-7611-4600-849c-ac620017dca8)
-- [Assignment 10: CRUD Recipe](assignment10-crud/instructions.md) *(Due date: Thursday, October 29)*
-- Also [tutorial reviews](https://docs.google.com/spreadsheets/d/1sLVw6UWpY4K66Z32Xu3Pw9Lp-xgXGgagto_YrTUl35w/edit#gid=52214594) and pre-proposal discussions for the final project
+- [Final Project Team Building (discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=109e0c0d-5f99-4068-b7fb-ac6b00e48404)
+  - [Final Project](final-project/instructions.md), due dates:
+    - **Part 1: Initial Ideas**, due Tuesday, November 10
+    - **Part 2: Team Building**, self-built teams must be finished by Friday, November 6
+    - **Part 3: Project Proposal**, due Thursday, November 12
+    - **Part 4: Weekly Sprint Planning Meetings**, every week, as scheduled with your team's TA between Thursday, November 12 and Wednesday, December 9 (minimum three Sprint meetings)
+    - **Part 5: Final Delivery**: due Wednesday, December 9 (the last day of finals week)
 
