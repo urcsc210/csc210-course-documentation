@@ -28,6 +28,8 @@ The CSC 210 final project is delivered in multiple parts, described below.  The 
 
 ## Part 1: Initial Ideas
 
+*5% of the final grade*
+
 *Due: Tuesday, November 10*
 
 The purpose of this exercise is to get everyone started thinking about application design. It's not meant to be a particularly taxing exercise - everyone *should* pass - however you do have to put some thought into it and be able to describe an idea in very few words.
@@ -46,6 +48,8 @@ The professor and TAs will provide feedback that will indicate if or when you’
 
 ## Part 2: Team Building
 
+*not graded*
+
 *Team Building Phase: Thursday, November 5 through Tuesday, November 10*
 
 Everyone must join a team of web developers using [our shared Team Building Google Sheet](https://docs.google.com/spreadsheets/d/1ou9MFoP_8cb3TCGpfL0PIDeA_1bNWJTsWqM2GshVYIs/edit#gid=0)
@@ -55,6 +59,8 @@ Everyone must join a team of web developers using [our shared Team Building Goog
 - **Monday, November 9:** Professor will assign the last students to teams
 
 ## Part 3: Project Proposal
+
+*10% of the final grade*
 
 *Proposal due: Thursday, November 12, 2020*
 
@@ -80,6 +86,8 @@ The proposal must explain the following.
 
 ## Part 4: Weekly Sprint Planning Meetings
 
+*Each meeting will be graded separately to total 15% of the final grade*
+
 *Every week, as scheduled with your team's TA between Thursday, November 12 and Wednesday, December 9 - minimum three Sprint meetings*
 
 Note: each planning meeting will be graded; there will be no make-ups or recovery for mistakes!  
@@ -93,6 +101,8 @@ Note: each planning meeting will be graded; there will be no make-ups or recover
   - Plan: what will be delivered next week
 
 ## Part 5: Final Delivery
+
+*20% of the final grade*
 
 The final application must be turned-in on Blackboard no later than Wednesday, December 9 (the last day of finals week)
 
