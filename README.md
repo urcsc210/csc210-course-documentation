@@ -7,7 +7,7 @@ Web Programming
 
 ## Tuesday, November 10, 2020
 
-- **Lecture 22: Agile Development Practices** ...coming soon
+- [Lecture 22: Agile Development Practices (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f544c89-acd6-4a44-a531-ac6f01582073) and [(PDF)](22-agile/agile.pdf)
 
 
 
