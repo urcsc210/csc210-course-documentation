@@ -5,9 +5,11 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
-## Tuesday, November 10, 2020
+# Thursday, November 12, 2020
 
-- [Lecture 22: Agile Development Practices (Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6f544c89-acd6-4a44-a531-ac6f01582073) and [(PDF)](22-agile/agile.pdf)
+- **User Authentication and Account Management discussion**
+  - This will be a discussion - not a lecture! - about the last piece of required functionality that you'll need to include in your Final Project
+  - Join us at **3:25 PM** today: [https://rochester.zoom.us/j/94256404116](https://rochester.zoom.us/j/94256404116) ![:turkey:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/apple-medium/1f983.png)
 
 
 
