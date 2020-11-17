@@ -7,8 +7,7 @@ Web Programming
 
 ## Tuesday, November 17, 2020
 
-- Checkpoint (discussion) regarding your first team's Sprint Review
-  - Join us at **3:25 PM** today: [https://rochester.zoom.us/j/94256404116](https://rochester.zoom.us/j/94256404116) ![:turkey:](https://a.slack-edge.com/production-standard-emoji-assets/10.2/apple-medium/1f983.png)
+- [Checkpoint regarding your first team's Sprint Review (discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abeca648-cd97-477e-9cfa-ac7601602f56)
 
 *Continue work on…*
 
