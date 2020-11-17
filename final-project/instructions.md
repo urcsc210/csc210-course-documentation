@@ -104,7 +104,7 @@ Note: each planning meeting will be graded; there will be no make-ups or recover
 
 *20% of the final grade*
 
-The final application must be turned-in on Blackboard no later than Wednesday, December 9 (the last day of finals week)
+The final application must be turned-in on Blackboard no later than Wednesday, December 9
 
 The submission in Blackboard must include:
 
