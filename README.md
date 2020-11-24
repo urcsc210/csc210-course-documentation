@@ -5,9 +5,9 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
-## Tuesday, November 17, 2020
+## Tuesday, November 24, 2020
 
-- [Checkpoint regarding your first team's Sprint Review (discussion, Panopto)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abeca648-cd97-477e-9cfa-ac7601602f56)
+- Cancelled
 
 *Continue work on…*
 
