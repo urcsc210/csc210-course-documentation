@@ -5,9 +5,9 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
-## Tuesday, November 24, 2020
+## Tuesday, December 1, 2020
 
-- Cancelled
+- Open lab
 
 *Continue work on…*
 
