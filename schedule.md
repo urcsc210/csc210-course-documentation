@@ -32,7 +32,7 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 25    | Thursday, November 19, 2020  | [Checkpoint - First Sprint Review (discussion)](https://rochester.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=abeca648-cd97-477e-9cfa-ac7601602f56) |                                                              |                                                              |
 | 26    | Tuesday, November 24, 2020   | Cancelled                                                    |                                                              |                                                              |
 | 27    | Tuesday, December 1, 2020    | Open lab                                                     |                                                              |                                                              |
-| 28    | Thursday, December 3, 2020   |                                                              |                                                              |                                                              |
+| 28    | Thursday, December 3, 2020   | Open lab                                                     |                                                              |                                                              |
 | 29    | Tuesday, December 8, 2020    |                                                              |                                                              | **Part 5: Final Delivery**: due Wednesday, December 9 (20%)  |
 
 ***Further Topics TBD by Interest***

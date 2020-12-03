@@ -5,7 +5,7 @@ Web Programming
 - [Schedule](schedule.md)   &lArr; here be: slides, assignments, and related links
 - [Flask Cheatsheet](flask-cheatsheet.md) ...for your reference
 
-## Tuesday, December 1, 2020
+## Thursday, December 3, 2020
 
 - Open lab
 
