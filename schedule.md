@@ -33,14 +33,4 @@ To schedule a **private discussion with the professor**, use [*Calendly*, an onl
 | 26    | Tuesday, November 24, 2020   | Cancelled                                                    |                                                              |                                                              |
 | 27    | Tuesday, December 1, 2020    | Open lab                                                     |                                                              |                                                              |
 | 28    | Thursday, December 3, 2020   | Open lab                                                     |                                                              |                                                              |
-| 29    | Tuesday, December 8, 2020    |                                                              |                                                              | **Part 5: Final Delivery**: due Wednesday, December 9 (20%)  |
-
-***Further Topics TBD by Interest***
-
-<hr>
-
-\* “**In class**” means…
-
-- **Zoom** sessions - you are required to attend in real-time
-- Inability to attend Zoom sessions in real-time requires you to watch the full recording of the session in **Panopto** within 24 hours of posting
-
+| 29    | Tuesday, December 8, 2020    | Open lab                                                     |                                                              | **Part 5: Final Delivery**: due Wednesday, December 9 (20%)  |
